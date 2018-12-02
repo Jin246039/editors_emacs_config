@@ -1,0 +1,9 @@
+'body':
+  'ctrl-b': 'core:move-left'
+  'ctrl-f': 'core:move-right'
+  'ctrl-p': 'core:move-up'
+  'ctrl-n': 'core:move-down'
+
+'atom-text-editor':
+  'ctrl-a': 'editor:move-to-first-character-of-line'
+  'ctrl-e': 'editor:move-to-end-of-screen-line'
